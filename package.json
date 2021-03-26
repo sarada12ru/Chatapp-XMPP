@@ -1,0 +1,14 @@
+{
+  "name": "chatapp-xmpp",
+  "version": "1.0.0",
+  "description": "A Chat App Using Xmpp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sarada",
+  "license": "ISC",
+  "dependencies": {
+    "simple-xmpp": "^2.3.1"
+  }
+}
